@@ -1,4 +1,4 @@
-# Mosaic Satellite Image Stitching using Hadoop Mapreduce
+# Mosaic Satellite Image Stitching using Hadoop MapReduce
 
 
 ## Abstract:
